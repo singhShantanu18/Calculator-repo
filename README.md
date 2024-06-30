@@ -1,6 +1,6 @@
-# Calculator Final Project
+# Calculator Project
 
-This is a simple calculator web application created as a final project.
+This is a simple calculator web application.
 
 ## Features
 
